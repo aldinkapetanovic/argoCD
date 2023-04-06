@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: dockerized-react
-        image: aldinkapetanovic/dockerized-react:latest
+        image: aldinkapetanovic/dockerized-react:argocd
         ports:
         - containerPort: 3000
