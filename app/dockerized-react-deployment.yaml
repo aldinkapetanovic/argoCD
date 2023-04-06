@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: dockerized-react
-        image: aldinkapetanovic/dockerized-react:f01e5b5
+        image: aldinkapetanovic/dockerized-react:j
         ports:
         - containerPort: 3000
