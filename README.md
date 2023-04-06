@@ -1,2 +1,1 @@
-# goreDC
-# goreDC
+# argo CD
